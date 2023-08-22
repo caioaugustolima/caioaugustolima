@@ -4,44 +4,25 @@
 - 🌱 Me interesso mais por Front-end e no momento estou estudando JavaScript e TypeScript
 - 😄 Pronouns: ele/dele
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wordpress height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  
- </div>
-  
-  ##
- <div>
-      
-  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=caioaugustolima&show_icons=true&theme=dark" >
-  <img height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=caioaugustolima&layout=compact&theme=dark" >
-  <img height= "180em" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/50187646/230171436-818ca2c8-3740-46f2-b8bf-934dbbddc920.png">
-
-</div>
-
  
- 
-<div> 
-   <a href="https://www.instagram.com/caioaugustolima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-augusto-lima-de-carvalho-8bb109196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## Status      
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=caioaugustolima&theme=dark&show_icons=true) &ensp; ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioaugustolima&theme=dark&show_icons=true)
+
+## Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caioaugustolima&repo=dio-lab-open-source&theme=dark&show_icons=true)](https://github.com/caioaugustolima/dio-lab-open-source)
+
+ ## Redes 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caio-augusto-lima-de-carvalho-8bb109196/) &ensp; [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/caioaugustolima/)
 
 
-
-<div>
- 
-  ## Projetos finalizados e em desenvolvimento:
-  
-  <a href="https://robotron-caio.netlify.app/"><img src="https://user-images.githubusercontent.com/50187646/230177531-f9dafdf1-9368-4b1e-96e0-5b1fffc5178d.png"></a>
-  
-  <a href="https://memes-midi.netlify.app/"><img src="https://user-images.githubusercontent.com/50187646/230181109-6f939cb5-4a5f-470a-92d7-3b92de4e9d16.gif"></a>
-
-</div>
+## Competências 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) &ensp; ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) &ensp; ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) &ensp; ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) &ensp; ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) &ensp; ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 
+## Projetos finalizados e em desenvolvimento:
 
+[![](https://user-images.githubusercontent.com/50187646/230177531-f9dafdf1-9368-4b1e-96e0-5b1fffc5178d.png)](https://robotron-caio.netlify.app/) 
+
+[![](https://user-images.githubusercontent.com/50187646/230181109-6f939cb5-4a5f-470a-92d7-3b92de4e9d16.gif)](https://memes-midi.netlify.app/)
