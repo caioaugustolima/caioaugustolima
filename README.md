@@ -23,7 +23,7 @@
 
 ## Projetos finalizados e em desenvolvimento:
 
-[![](https://github.com/caioaugustolima/caioaugustolima/assets/50187646/381edf39-8acb-4601-a3bb-3bfe9660b200)](https://grand-maamoul-e55b8b.netlify.app/)
+[![](https://github-production-user-asset-6210df.s3.amazonaws.com/50187646/264829623-381edf39-8acb-4601-a3bb-3bfe9660b200.gif)](https://pokedex-dinamica.netlify.app/)
 
 [![](https://user-images.githubusercontent.com/50187646/230177531-f9dafdf1-9368-4b1e-96e0-5b1fffc5178d.png)](https://robotron-caio.netlify.app/) 
 
