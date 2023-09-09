@@ -25,7 +25,7 @@
 
 [![](https://github-production-user-asset-6210df.s3.amazonaws.com/50187646/264829623-381edf39-8acb-4601-a3bb-3bfe9660b200.gif)](https://pokedex-dinamica.netlify.app/)
 
-<a href="https://github.com/caioaugustolima/Terra_Sol.git" target="_blank"> <img height="600" src="https://github.com/caioaugustolima/Terra_Sol/assets/50187646/2cdc8fc1-6f6a-4289-b1ee-b4aeb811b897"> </a>
+<a href="https://github.com/caioaugustolima/Terra_Sol.git"> <img height="600" src="https://github.com/caioaugustolima/Terra_Sol/assets/50187646/2cdc8fc1-6f6a-4289-b1ee-b4aeb811b897"> </a>
 
 [![](https://user-images.githubusercontent.com/50187646/230177531-f9dafdf1-9368-4b1e-96e0-5b1fffc5178d.png)](https://robotron-caio.netlify.app/) 
 
