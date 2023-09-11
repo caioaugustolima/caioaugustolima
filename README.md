@@ -7,11 +7,11 @@
  
 ## Status      
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=caioaugustolima&theme=dark&show_icons=true) &ensp; ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioaugustolima&theme=dark&show_icons=true)
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioaugustolima&show_icons=true&theme=darcula) &ensp; ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioaugustolima&theme=darcula&show_icons=true)
 
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caioaugustolima&repo=dio-lab-open-source&theme=dark&show_icons=true)](https://github.com/caioaugustolima/dio-lab-open-source)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caioaugustolima&repo=dio-lab-open-source&theme=darcula&show_icons=true)](https://github.com/caioaugustolima/dio-lab-open-source)
 
  ## Redes 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caio-augusto-lima-de-carvalho-8bb109196/) &ensp; [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/caioaugustolima/)
