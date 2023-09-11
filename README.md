@@ -1,9 +1,7 @@
 ## Olá! Eu sou Caio Lima
 
 - 🔭 Hoje trabalho como analisata de HelpDesk mas tenho estudado para conseguir uma oportunidade como dev.
-- 🌱 Me interesso mais por Front-end e no momento estou estudando JavaScript e TypeScript
-- 😄 Pronouns: ele/dele
-
+- 🌱 Me interesso mais por Front-end e no momento estou estudando TypeScript e Angular.
  
 ## Status      
 
