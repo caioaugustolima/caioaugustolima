@@ -16,7 +16,7 @@
 
 
 ## Competências 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) &ensp; ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) &ensp; ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) &ensp; ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) &ensp; ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) &ensp; ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) &ensp; ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) &ensp; ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) &ensp; ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) &ensp; ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=FBBD16) &ensp; ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F) &ensp; ![UML](https://img.shields.io/badge/Uml-000?style=for-the-badge&logo=uml&logoColor=FBBD16)
 
 
 ## Projetos finalizados e em desenvolvimento:
@@ -26,7 +26,7 @@
 
 [![](https://github.com/caioaugustolima/caioaugustolima/assets/50187646/9169aaf6-6120-434f-8d9f-da006519a66c)](https://blogdacerva.netlify.app/)
 
-<a href="https://github.com/caioaugustolima/Terra_Sol.git"> <img height="600" src="https://github.com/caioaugustolima/Terra_Sol/assets/50187646/2cdc8fc1-6f6a-4289-b1ee-b4aeb811b897"> </a>
+[![Orientação a Objetos e UML Diagramação de Classes do iPhone](https://github.com/caioaugustolima/caioaugustolima/assets/50187646/d127fbb3-47e6-40fd-ba38-69674190ce6b)](https://github.com/caioaugustolima/UML_Classes_iPhone-DIO.git)
 
 [![](https://user-images.githubusercontent.com/50187646/230177531-f9dafdf1-9368-4b1e-96e0-5b1fffc5178d.png)](https://robotron-caio.netlify.app/) 
 
