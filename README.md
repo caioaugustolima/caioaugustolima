@@ -1,6 +1,6 @@
 ## Olá! Eu sou Caio Lima
 
-- 🔭 Hoje trabalho como Analista de suporte na Samsung SDS Latin America e tenho estudado para aprender cada vez mais meus conhecimentos na área de desenvolvimento.
+- 🔭 Hoje trabalho como Analista de suporte na Samsung SDS Latin America e tenho estudado para desenvolver cada vez mais meus conhecimentos na área de desenvolvimento.
 - 🌱 Me interesso mais por Front-end e no momento estou estudando TypeScript e Angular.
  
 ## Status      
